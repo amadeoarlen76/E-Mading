@@ -1,0 +1,11 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 7vh;
+}
+
+.pilihan{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
